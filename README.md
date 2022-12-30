@@ -6,8 +6,11 @@
 ![alt](./assets/images/form.png)
 
 ---
+
 Funcionalidades:
+
 ---
+
 1. Novo 
 2. Pesquisar
 3. Salvar
