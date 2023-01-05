@@ -1,0 +1,20 @@
+{
+  "name": "form_responsavel",
+  "version": "1.0.0",
+  "description": "[Form](https://ventu-ra.github.io/form.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ventur09/form_responsavel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ventur09/form_responsavel/issues"
+  },
+  "homepage": "https://github.com/ventur09/form_responsavel#readme"
+}

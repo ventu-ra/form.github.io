@@ -28,13 +28,13 @@ function save(r: Responsavel) {
   R.push(r)
   list()
 
-  console.log("Saving...", R);
+  console.log("Saving...", R);  
 }
 
 function list(){
 
   for(let value of R){
     console.log("value: ",value);
-
   }
+ 
 }
